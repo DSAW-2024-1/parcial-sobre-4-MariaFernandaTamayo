@@ -32,7 +32,12 @@ Requerimientos:
 
 | Criterio                   | Puntaje |
 | -------------------------- | ------- |
-| Diseño Responsive          | 2       |
-| HTML Semántico             | 1       |
-| Funcionalidad              | 1.5     |
-| Despliegue en Github Pages | 0.5     |
+| Diseño Responsive          | 1.4/2       |
+| HTML Semántico             | 0.8/1       |
+| Funcionalidad              | 1.2/1.5     |
+| Despliegue en Github Pages | 0.5/0.5     |
+
+Nota parcial: 3.9 x 0.8 -> 3.12
+
+![image](https://github.com/DSAW-2024-1/parcial-sobre-4-MariaFernandaTamayo/assets/50994778/beaf0818-e460-468a-87f3-a7ed877a6ce0)
+
